@@ -1,15 +1,15 @@
 {
-    "BotToken": "",
-    "GenToken": "",
+    "BotToken": "MTE1NDM0NjY2NTIxMDI5NDMyNw.Gp3JB-.CYcR3_ysiiQMKQA6NYYfonIy5UWxLfVEuKxaZY",
+    "GenToken": "Hypixel Verifier",
 
 
-    "Owners": [],
+    "Owners": [995696052957094009],
 
 
-    "DhookChannelID": 123,
+    "DhookChannelID": 1154347020979544106,
     "WhitelistedServersIDs": [],
 
 
-    "VerifyRoleID": 123,
-    "PremiumRoleID": 123
+    "VerifyRoleID": 1154347329323810826,
+    "PremiumRoleID": 1154347364669194290
 }
